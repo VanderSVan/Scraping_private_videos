@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+# Pycharm
+.idea/
+# Pytest
+__pycache__/
+.pytest_cache/
+# Coverage packege
+htmlcov/
+.coverage
+# Building python package
+instance/
+dist/
+build/
+*.egg-info/
