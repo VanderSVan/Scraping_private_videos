@@ -1,0 +1,1 @@
+Scraping video from a website where you have to go through the authorization, a few pages and find the url of the private videos, that are not availeble for downloads. Then find a way to download those video.
