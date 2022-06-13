@@ -1,16 +1,11 @@
 [tool.poetry]
-name = "happy_hope_parsing"
+name = "tmp"
 version = "0.1.0"
 description = ""
 authors = ["VanderSVan <101255612+VanderSVan@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-bs4 = "^0.0.1"
-selenium = "^4.2.0"
-webdriver-manager = "^3.7.0"
-python-dotenv = "^0.20.0"
-fake-useragent = "^0.1.11"
 
 [tool.poetry.dev-dependencies]
 
