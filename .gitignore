@@ -13,3 +13,4 @@ instance/
 dist/
 build/
 *.egg-info/
+cookies/*
